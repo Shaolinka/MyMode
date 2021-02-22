@@ -1,0 +1,885 @@
+[03:46:34 07/12/20] [ERROR] mysql_connect - empty connection data specified
+[03:46:34 07/12/20] [ERROR] mysql_errno - invalid connection handle (id: 1)
+[03:47:00 07/12/20] [ERROR] mysql_connect - empty connection data specified
+[03:47:00 07/12/20] [ERROR] mysql_errno - invalid connection handle (id: 1)
+[21:06:11 07/12/20] [ERROR] mysql_connect - empty connection data specified
+[21:07:19 07/12/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[21:07:19 07/12/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[21:07:19 07/12/20] [WARNING] cache_get_row_count - no active cache
+[21:07:19 07/12/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[21:07:19 07/12/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[21:07:19 07/12/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[21:07:19 07/12/20] [WARNING] cache_get_row_count - no active cache
+[21:07:35 07/12/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[21:07:35 07/12/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[21:07:35 07/12/20] [WARNING] cache_get_row_count - no active cache
+[21:07:35 07/12/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[21:11:41 07/12/20] [ERROR] mysql_connect - empty connection data specified
+[21:11:41 07/12/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[21:11:41 07/12/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[21:11:41 07/12/20] [WARNING] cache_get_row_count - no active cache
+[21:11:41 07/12/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[21:11:41 07/12/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[21:11:41 07/12/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[21:11:41 07/12/20] [WARNING] cache_get_row_count - no active cache
+[21:12:47 07/12/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[21:12:47 07/12/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[21:12:47 07/12/20] [WARNING] cache_get_row_count - no active cache
+[21:12:47 07/12/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[21:15:03 07/12/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[21:15:03 07/12/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[21:15:03 07/12/20] [WARNING] cache_get_row_count - no active cache
+[21:15:03 07/12/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[21:15:14 07/12/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[21:15:14 07/12/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[21:15:14 07/12/20] [WARNING] cache_get_row_count - no active cache
+[21:15:14 07/12/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[21:27:55 07/12/20] [ERROR] mysql_connect - empty connection data specified
+[21:27:55 07/12/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[21:27:55 07/12/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[21:27:55 07/12/20] [WARNING] cache_get_row_count - no active cache
+[21:27:55 07/12/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[21:27:55 07/12/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[21:27:55 07/12/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[21:27:55 07/12/20] [WARNING] cache_get_row_count - no active cache
+[21:28:21 07/12/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[21:28:21 07/12/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[21:28:21 07/12/20] [WARNING] cache_get_row_count - no active cache
+[21:28:21 07/12/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[21:28:23 07/12/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[21:28:23 07/12/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[21:28:23 07/12/20] [WARNING] cache_get_row_count - no active cache
+[21:30:36 07/12/20] [ERROR] mysql_connect - empty connection data specified
+[21:30:36 07/12/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[21:30:37 07/12/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[21:30:37 07/12/20] [WARNING] cache_get_row_count - no active cache
+[21:30:37 07/12/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[21:30:37 07/12/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[21:30:37 07/12/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[21:30:37 07/12/20] [WARNING] cache_get_row_count - no active cache
+[19:52:37 07/13/20] [ERROR] mysql_connect - empty connection data specified
+[19:55:48 07/13/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[19:55:48 07/13/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[19:55:48 07/13/20] [WARNING] cache_get_row_count - no active cache
+[19:55:48 07/13/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[19:55:48 07/13/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[19:55:48 07/13/20] [WARNING] cache_get_row_count - no active cache
+[19:55:48 07/13/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[19:56:01 07/13/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[19:56:01 07/13/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[19:56:01 07/13/20] [WARNING] cache_get_row_count - no active cache
+[19:56:04 07/13/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[19:56:04 07/13/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[19:56:04 07/13/20] [WARNING] cache_get_row_count - no active cache
+[19:56:16 07/13/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[19:56:16 07/13/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[19:56:16 07/13/20] [WARNING] cache_get_row_count - no active cache
+[20:07:34 07/13/20] [ERROR] mysql_connect - empty connection data specified
+[20:07:34 07/13/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[20:07:34 07/13/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[20:07:34 07/13/20] [WARNING] cache_get_row_count - no active cache
+[20:07:34 07/13/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[20:07:34 07/13/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[20:07:34 07/13/20] [WARNING] cache_get_row_count - no active cache
+[20:07:34 07/13/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[20:08:27 07/13/20] [ERROR] mysql_connect - empty connection data specified
+[20:08:27 07/13/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[20:08:27 07/13/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[20:08:27 07/13/20] [WARNING] cache_get_row_count - no active cache
+[20:08:27 07/13/20] [ERROR] mysql_format - invalid connection handle (id: 0)
+[20:08:27 07/13/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[20:08:27 07/13/20] [WARNING] cache_get_row_count - no active cache
+[20:08:27 07/13/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[20:11:01 07/13/20] [ERROR] CMySQLQuery::Execute - (error #1052) Column 'id' in field list is ambiguous (Query: "SELECT id FROM diaries d INNER JOIN diaries_records dr ON d.d_id = dr.d_id WHERE d.u_id = 1 LIMIT 1")
+[20:11:01 07/13/20] [WARNING] cache_get_row_count - no active cache
+[20:11:01 07/13/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[20:14:39 07/13/20] [WARNING] CMySQLHandle::Create - connection already exists
+[20:14:39 07/13/20] [ERROR] CMySQLQuery::Execute - (error #1052) Column 'id' in field list is ambiguous (Query: "SELECT id FROM diaries d INNER JOIN diaries_records dr ON d.d_id = dr.d_id WHERE d.u_id = 1 LIMIT 1")
+[20:14:39 07/13/20] [WARNING] cache_get_row_count - no active cache
+[20:14:39 07/13/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[20:14:57 07/13/20] [ERROR] CMySQLQuery::Execute - (error #1052) Column 'id' in field list is ambiguous (Query: "SELECT id FROM diaries d INNER JOIN diaries_records dr ON d.d_id = dr.d_id WHERE d.u_id = 1 LIMIT 1")
+[20:14:57 07/13/20] [WARNING] cache_get_row_count - no active cache
+[20:14:57 07/13/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[20:15:04 07/13/20] [ERROR] CMySQLQuery::Execute - (error #1052) Column 'id' in field list is ambiguous (Query: "SELECT id FROM diaries d INNER JOIN diaries_records dr ON d.d_id = dr.d_id WHERE d.u_id = 1 LIMIT 1")
+[20:15:04 07/13/20] [WARNING] cache_get_row_count - no active cache
+[20:15:04 07/13/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[20:15:05 07/13/20] [ERROR] CMySQLQuery::Execute - (error #1052) Column 'id' in field list is ambiguous (Query: "SELECT id FROM diaries d INNER JOIN diaries_records dr ON d.d_id = dr.d_id WHERE d.u_id = 1 LIMIT 1")
+[20:15:05 07/13/20] [WARNING] cache_get_row_count - no active cache
+[20:15:05 07/13/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[20:17:28 07/13/20] [WARNING] CMySQLHandle::Create - connection already exists
+[23:50:23 07/13/20] [WARNING] CMySQLHandle::Create - connection already exists
+[00:09:47 07/14/20] [WARNING] CMySQLHandle::Create - connection already exists
+[00:11:27 07/14/20] [WARNING] CMySQLHandle::Create - connection already exists
+[00:11:42 07/14/20] [ERROR] CMySQLResult::GetRowDataByName() - invalid row index ('-1') (Query: "SELECT * FROM diaries_records dr INNER JOIN diaries d ON dr.d_id = d.d_id WHERE dr.d_id = 1")
+[00:13:41 07/14/20] [WARNING] CMySQLHandle::Create - connection already exists
+[00:13:57 07/14/20] [ERROR] CMySQLResult::GetRowDataByName() - invalid row index ('-1') (Query: "SELECT * FROM diaries_records dr INNER JOIN diaries d ON dr.d_id = d.d_id WHERE dr.d_id = 1")
+[00:14:02 07/14/20] [ERROR] CMySQLResult::GetRowDataByName() - invalid row index ('-1') (Query: "SELECT * FROM diaries_records dr INNER JOIN diaries d ON dr.d_id = d.d_id WHERE dr.d_id = 1")
+[00:16:52 07/14/20] [WARNING] CMySQLHandle::Create - connection already exists
+[00:20:24 07/14/20] [WARNING] CMySQLHandle::Create - connection already exists
+[00:24:32 07/14/20] [WARNING] CMySQLHandle::Create - connection already exists
+[00:26:49 07/14/20] [WARNING] CMySQLHandle::Create - connection already exists
+[00:34:08 07/14/20] [WARNING] CMySQLHandle::Create - connection already exists
+[16:12:46 07/14/20] [WARNING] CMySQLHandle::Create - connection already exists
+[16:14:11 07/14/20] [WARNING] CMySQLHandle::Create - connection already exists
+[16:18:43 07/14/20] [WARNING] CMySQLHandle::Create - connection already exists
+[23:26:18 07/14/20] [WARNING] CMySQLHandle::Create - connection already exists
+[23:32:35 07/14/20] [WARNING] CMySQLHandle::Create - connection already exists
+[23:34:51 07/14/20] [WARNING] CMySQLHandle::Create - connection already exists
+[23:35:59 07/14/20] [WARNING] CMySQLHandle::Create - connection already exists
+[23:26:47 07/15/20] [WARNING] CMySQLHandle::Create - connection already exists
+[23:27:02 07/15/20] [ERROR] mysql_format - no value for specifier "%d" available
+[23:27:02 07/15/20] [ERROR] CMySQLQuery::Execute - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 (Query: "SELECT * FROM diaries_records dr INNER JOIN diaries d ON dr.d_id = d.d_id WHERE dr.d_id = 1 LIMIT ")
+[23:27:03 07/15/20] [WARNING] cache_get_row_count - no active cache
+[23:27:13 07/15/20] [ERROR] mysql_format - no value for specifier "%d" available
+[23:27:13 07/15/20] [ERROR] CMySQLQuery::Execute - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 (Query: "SELECT * FROM diaries_records dr INNER JOIN diaries d ON dr.d_id = d.d_id WHERE dr.d_id = 1 LIMIT ")
+[23:27:13 07/15/20] [WARNING] cache_get_row_count - no active cache
+[23:29:14 07/15/20] [WARNING] CMySQLHandle::Create - connection already exists
+[23:29:29 07/15/20] [ERROR] mysql_format - no value for specifier "%d" available
+[23:29:29 07/15/20] [ERROR] CMySQLQuery::Execute - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 (Query: "SELECT * FROM diaries_records dr INNER JOIN diaries d ON dr.d_id = d.d_id WHERE dr.d_id = 1 LIMIT ")
+[23:29:29 07/15/20] [WARNING] cache_get_row_count - no active cache
+[23:44:12 07/15/20] [WARNING] CMySQLHandle::Create - connection already exists
+[23:44:26 07/15/20] [ERROR] mysql_format - no value for specifier "%d" available
+[23:44:26 07/15/20] [ERROR] CMySQLQuery::Execute - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 (Query: "SELECT * FROM diaries_records dr INNER JOIN diaries d ON dr.d_id = d.d_id WHERE dr.d_id = 1 LIMIT ")
+[23:44:26 07/15/20] [WARNING] cache_get_row_count - no active cache
+[23:44:32 07/15/20] [ERROR] mysql_format - no value for specifier "%d" available
+[23:44:32 07/15/20] [ERROR] CMySQLQuery::Execute - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 (Query: "SELECT * FROM diaries_records dr INNER JOIN diaries d ON dr.d_id = d.d_id WHERE dr.d_id = 1 LIMIT ")
+[23:44:32 07/15/20] [WARNING] cache_get_row_count - no active cache
+[23:44:34 07/15/20] [ERROR] mysql_format - no value for specifier "%d" available
+[23:44:34 07/15/20] [ERROR] CMySQLQuery::Execute - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 (Query: "SELECT * FROM diaries_records dr INNER JOIN diaries d ON dr.d_id = d.d_id WHERE dr.d_id = 1 LIMIT ")
+[23:44:34 07/15/20] [WARNING] cache_get_row_count - no active cache
+[23:49:41 07/15/20] [WARNING] CMySQLHandle::Create - connection already exists
+[23:49:53 07/15/20] [ERROR] mysql_format - no value for specifier "%d" available
+[23:49:53 07/15/20] [ERROR] CMySQLQuery::Execute - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 (Query: "SELECT * FROM diaries_records dr INNER JOIN diaries d ON dr.d_id = d.d_id WHERE dr.d_id = 1 LIMIT ")
+[23:49:53 07/15/20] [WARNING] cache_get_row_count - no active cache
+[23:53:01 07/15/20] [WARNING] CMySQLHandle::Create - connection already exists
+[23:53:18 07/15/20] [ERROR] mysql_format - no value for specifier "%d" available
+[23:53:18 07/15/20] [ERROR] CMySQLQuery::Execute - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 (Query: "SELECT * FROM diaries_records dr INNER JOIN diaries d ON dr.d_id = d.d_id WHERE dr.d_id = 1 LIMIT ")
+[23:53:18 07/15/20] [WARNING] cache_get_row_count - no active cache
+[23:53:20 07/15/20] [ERROR] mysql_format - no value for specifier "%d" available
+[23:53:20 07/15/20] [ERROR] CMySQLQuery::Execute - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 (Query: "SELECT * FROM diaries_records dr INNER JOIN diaries d ON dr.d_id = d.d_id WHERE dr.d_id = 1 LIMIT ")
+[23:53:20 07/15/20] [WARNING] cache_get_row_count - no active cache
+[23:54:36 07/15/20] [WARNING] CMySQLHandle::Create - connection already exists
+[23:54:48 07/15/20] [ERROR] mysql_format - no value for specifier "%d" available
+[23:54:48 07/15/20] [ERROR] CMySQLQuery::Execute - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 (Query: "SELECT * FROM diaries_records dr INNER JOIN diaries d ON dr.d_id = d.d_id WHERE dr.d_id = 1 LIMIT ")
+[23:54:48 07/15/20] [WARNING] cache_get_row_count - no active cache
+[23:54:55 07/15/20] [ERROR] mysql_format - no value for specifier "%d" available
+[23:54:55 07/15/20] [ERROR] CMySQLQuery::Execute - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 (Query: "SELECT * FROM diaries_records dr INNER JOIN diaries d ON dr.d_id = d.d_id WHERE dr.d_id = 1 LIMIT ")
+[23:54:55 07/15/20] [WARNING] cache_get_row_count - no active cache
+[23:57:51 07/15/20] [ERROR] mysql_format - no value for specifier "%d" available
+[23:57:51 07/15/20] [ERROR] CMySQLQuery::Execute - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 (Query: "SELECT * FROM diaries_records dr INNER JOIN diaries d ON dr.d_id = d.d_id WHERE dr.d_id = 1 LIMIT ")
+[23:57:51 07/15/20] [WARNING] cache_get_row_count - no active cache
+[00:23:27 07/16/20] [WARNING] CMySQLHandle::Create - connection already exists
+[00:23:40 07/16/20] [ERROR] mysql_format - no value for specifier "%d" available
+[00:23:40 07/16/20] [ERROR] CMySQLQuery::Execute - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 (Query: "SELECT * FROM diaries_records dr INNER JOIN diaries d ON dr.d_id = d.d_id WHERE dr.d_id = 1 LIMIT ")
+[00:23:40 07/16/20] [WARNING] cache_get_row_count - no active cache
+[00:38:20 07/17/20] [WARNING] CMySQLHandle::Create - connection already exists
+[00:40:43 07/17/20] [WARNING] CMySQLHandle::Create - connection already exists
+[00:42:31 07/17/20] [WARNING] CMySQLHandle::Create - connection already exists
+[00:45:05 07/17/20] [WARNING] CMySQLHandle::Create - connection already exists
+[00:48:17 07/17/20] [WARNING] CMySQLHandle::Create - connection already exists
+[00:48:30 07/17/20] [WARNING] CMySQLHandle::Create - connection already exists
+[00:50:37 07/17/20] [WARNING] CMySQLHandle::Create - connection already exists
+[00:53:10 07/17/20] [WARNING] CMySQLHandle::Create - connection already exists
+[00:57:03 07/17/20] [WARNING] CMySQLHandle::Create - connection already exists
+[00:59:38 07/17/20] [WARNING] CMySQLHandle::Create - connection already exists
+[01:00:36 07/17/20] [WARNING] CMySQLHandle::Create - connection already exists
+[01:02:44 07/17/20] [WARNING] CMySQLHandle::Create - connection already exists
+[20:52:11 07/19/20] [WARNING] CMySQLHandle::Create - connection already exists
+[20:56:27 07/19/20] [WARNING] CMySQLHandle::Create - connection already exists
+[20:58:14 07/19/20] [WARNING] CMySQLHandle::Create - connection already exists
+[20:59:58 07/19/20] [WARNING] CMySQLHandle::Create - connection already exists
+[21:08:02 07/19/20] [WARNING] CMySQLHandle::Create - connection already exists
+[23:03:44 07/19/20] [WARNING] CMySQLHandle::Create - connection already exists
+[23:07:15 07/19/20] [WARNING] CMySQLHandle::Create - connection already exists
+[23:12:06 07/19/20] [WARNING] CMySQLHandle::Create - connection already exists
+[23:16:10 07/19/20] [WARNING] CMySQLHandle::Create - connection already exists
+[23:19:40 07/19/20] [WARNING] CMySQLHandle::Create - connection already exists
+[23:23:51 07/19/20] [WARNING] CMySQLHandle::Create - connection already exists
+[23:35:04 07/19/20] [WARNING] CMySQLHandle::Create - connection already exists
+[23:41:56 07/19/20] [WARNING] CMySQLHandle::Create - connection already exists
+[23:58:50 07/19/20] [WARNING] CMySQLHandle::Create - connection already exists
+[00:06:39 07/20/20] [WARNING] CMySQLHandle::Create - connection already exists
+[00:22:01 07/20/20] [WARNING] CMySQLHandle::Create - connection already exists
+[22:34:24 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'd.u_id' in 'where clause' (Query: "SELECT d.id FROM diaries d INNER JOIN diaries_records dr ON d.d_id = dr.d_id WHERE d.u_id = 2 LIMIT 1")
+[22:34:24 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:34:24 09/19/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[22:34:31 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'd.u_id' in 'where clause' (Query: "SELECT d.id FROM diaries d INNER JOIN diaries_records dr ON d.d_id = dr.d_id WHERE d.u_id = 2 LIMIT 1")
+[22:34:31 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:34:31 09/19/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[22:37:18 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'd.u_id' in 'where clause' (Query: "SELECT d.id FROM diaries d INNER JOIN diaries_records dr ON d.d_id = dr.d_id WHERE d.u_id = 2 LIMIT 1")
+[22:37:18 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:37:18 09/19/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[22:37:34 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'd.u_id' in 'where clause' (Query: "SELECT d.id FROM diaries d INNER JOIN diaries_records dr ON d.d_id = dr.d_id WHERE d.u_id = 2 LIMIT 1")
+[22:37:34 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:37:34 09/19/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[22:37:43 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.a_lvl FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[22:37:43 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:37:43 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.id FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[22:37:43 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:41:53 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'd.u_id' in 'where clause' (Query: "SELECT d.id FROM diaries d INNER JOIN diaries_records dr ON d.d_id = dr.d_id WHERE d.u_id = 2 LIMIT 1")
+[22:41:53 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:41:53 09/19/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[22:42:08 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.a_lvl FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[22:42:08 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:42:08 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.id FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[22:42:09 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:42:21 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.a_lvl FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[22:42:21 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:47:29 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'd.u_id' in 'where clause' (Query: "SELECT d.id FROM diaries d INNER JOIN diaries_records dr ON d.d_id = dr.d_id WHERE d.u_id = 2 LIMIT 1")
+[22:47:29 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:47:29 09/19/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[22:47:43 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.a_lvl FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[22:47:43 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:48:00 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.a_lvl FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[22:48:01 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:48:01 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.id FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[22:48:01 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:48:10 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.a_lvl FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[22:48:10 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:48:10 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.id FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[22:48:10 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:48:16 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.a_lvl FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[22:48:16 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:48:16 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.id FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[22:48:16 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:48:22 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.a_lvl FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[22:48:22 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:48:22 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.id FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[22:48:22 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:48:27 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.a_lvl FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[22:48:27 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:48:27 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.id FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[22:48:27 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:51:18 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'd.u_id' in 'where clause' (Query: "SELECT d.id FROM diaries d INNER JOIN diaries_records dr ON d.d_id = dr.d_id WHERE d.u_id = 2 LIMIT 1")
+[22:51:18 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:51:18 09/19/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[22:53:46 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'd.u_id' in 'where clause' (Query: "SELECT d.id FROM diaries d INNER JOIN diaries_records dr ON d.d_id = dr.d_id WHERE d.u_id = 2 LIMIT 1")
+[22:53:46 09/19/20] [WARNING] cache_get_row_count - no active cache
+[22:53:46 09/19/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[23:00:36 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'd.u_id' in 'where clause' (Query: "SELECT d.id FROM diaries d INNER JOIN diaries_records dr ON d.d_id = dr.d_id WHERE d.u_id = 2 LIMIT 1")
+[23:00:36 09/19/20] [WARNING] cache_get_row_count - no active cache
+[23:00:36 09/19/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[23:00:45 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.a_lvl FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[23:00:45 09/19/20] [WARNING] cache_get_row_count - no active cache
+[23:00:45 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.id FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[23:00:45 09/19/20] [WARNING] cache_get_row_count - no active cache
+[23:00:51 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.a_lvl FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[23:00:51 09/19/20] [WARNING] cache_get_row_count - no active cache
+[23:00:51 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.id FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[23:00:51 09/19/20] [WARNING] cache_get_row_count - no active cache
+[23:00:55 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.a_lvl FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[23:00:56 09/19/20] [WARNING] cache_get_row_count - no active cache
+[23:00:56 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.id FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[23:00:56 09/19/20] [WARNING] cache_get_row_count - no active cache
+[23:01:20 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.a_lvl FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[23:01:20 09/19/20] [WARNING] cache_get_row_count - no active cache
+[23:01:20 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.id FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[23:01:20 09/19/20] [WARNING] cache_get_row_count - no active cache
+[23:01:33 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.a_lvl FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[23:01:33 09/19/20] [WARNING] cache_get_row_count - no active cache
+[23:07:10 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.a_lvl FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[23:07:10 09/19/20] [WARNING] cache_get_row_count - no active cache
+[23:07:10 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.id FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[23:07:10 09/19/20] [WARNING] cache_get_row_count - no active cache
+[23:07:15 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.a_lvl FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[23:07:15 09/19/20] [WARNING] cache_get_row_count - no active cache
+[23:07:15 09/19/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'a.u_id' in 'where clause' (Query: "SELECT a.id FROM admins a INNER JOIN characters c ON a.u_id = c.u_id INNER JOIN users u ON c.u_id = u.u_id WHERE a.u_id = 2 LIMIT 1")
+[23:07:15 09/19/20] [WARNING] cache_get_row_count - no active cache
+[01:18:32 09/20/20] [WARNING] cache_insert_id - no active cache
+[05:55:01 09/30/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 't.oc_id' in 'on clause' (Query: "SELECT * FROM ownable_cars oc INNER JOIN trailers t ON oc.oc_id = t.oc_id LIMIT 2000")
+[05:55:02 09/30/20] [WARNING] cache_get_row_count - no active cache
+[05:55:02 09/30/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[05:56:08 09/30/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 't.oc_id' in 'on clause' (Query: "SELECT * FROM ownable_cars oc INNER JOIN trailers t ON oc.oc_id = t.oc_id LIMIT 2000")
+[05:56:08 09/30/20] [WARNING] cache_get_row_count - no active cache
+[05:56:08 09/30/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[05:56:41 09/30/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 't.oc_id' in 'on clause' (Query: "SELECT * FROM ownable_cars oc INNER JOIN trailers t ON oc.oc_id = t.oc_id LIMIT 2000")
+[05:56:41 09/30/20] [WARNING] cache_get_row_count - no active cache
+[05:56:41 09/30/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[05:57:27 09/30/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 't.oc_id' in 'on clause' (Query: "SELECT * FROM ownable_cars oc INNER JOIN trailers t ON oc.oc_id = t.oc_id LIMIT 2000")
+[05:57:27 09/30/20] [WARNING] cache_get_row_count - no active cache
+[05:57:27 09/30/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[06:01:45 09/30/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 't.oc_id' in 'on clause' (Query: "SELECT * FROM ownable_cars oc INNER JOIN trailers t ON oc.oc_id = t.oc_id LIMIT 2000")
+[06:01:45 09/30/20] [WARNING] cache_get_row_count - no active cache
+[06:01:45 09/30/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[06:02:26 09/30/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 't.oc_id' in 'on clause' (Query: "SELECT * FROM ownable_cars oc INNER JOIN trailers t ON oc.oc_id = t.oc_id LIMIT 2000")
+[06:02:26 09/30/20] [WARNING] cache_get_row_count - no active cache
+[06:02:26 09/30/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[06:03:02 09/30/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 't.oc_id' in 'on clause' (Query: "SELECT * FROM ownable_cars oc INNER JOIN trailers t ON oc.oc_id = t.oc_id LIMIT 2000")
+[06:03:02 09/30/20] [WARNING] cache_get_row_count - no active cache
+[06:03:02 09/30/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[06:03:45 09/30/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 't.oc_id' in 'on clause' (Query: "SELECT * FROM ownable_cars oc INNER JOIN trailers t ON oc.oc_id = t.oc_id LIMIT 2000")
+[06:03:45 09/30/20] [WARNING] cache_get_row_count - no active cache
+[06:03:45 09/30/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[17:43:05 09/30/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 't.oc_id' in 'on clause' (Query: "SELECT * FROM ownable_cars oc INNER JOIN trailers t ON oc.oc_id = t.oc_id LIMIT 2000")
+[17:43:05 09/30/20] [WARNING] cache_get_row_count - no active cache
+[17:43:05 09/30/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[02:56:33 10/01/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[02:56:34 10/01/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[02:56:36 10/01/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[02:56:36 10/01/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[02:56:36 10/01/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[02:56:36 10/01/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[02:56:36 10/01/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[02:56:36 10/01/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM ownable_cars oc INNER JOIN trailers t ON oc.oc_id = t.t_oc_id LIMIT 2000")
+[02:56:36 10/01/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[02:56:36 10/01/20] [WARNING] cache_get_row_count - no active cache
+[02:56:36 10/01/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[02:56:36 10/01/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM trailers t INNER JOIN ownable_cars oc ON t.t_oc_id = oc.oc_id LIMIT 2000")
+[02:56:36 10/01/20] [WARNING] cache_get_row_count - no active cache
+[02:56:36 10/01/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[02:57:30 10/01/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT c.id FROM characters c INNER JOIN users u ON c.u_id = u.u_id WHERE c.u_name = 'Aye_Naxui' LIMIT 1")
+[02:57:30 10/01/20] [WARNING] cache_get_row_count - no active cache
+[02:57:30 10/01/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT u.u_id FROM users u INNER JOIN characters c ON u.u_id = c.u_id WHERE c.u_name = 'Aye_Naxui' LIMIT 1")
+[02:57:30 10/01/20] [WARNING] cache_get_row_count - no active cache
+[02:57:30 10/01/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT c.c_id FROM characters c INNER JOIN users u ON c.u_id = u.u_id WHERE c.u_id = 65535 LIMIT 1")
+[02:57:30 10/01/20] [WARNING] cache_get_row_count - no active cache
+[02:57:30 10/01/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT d.id FROM diaries d INNER JOIN diaries_records dr ON d.d_id = dr.d_id WHERE d.c_id = 65535 LIMIT 1")
+[02:57:30 10/01/20] [WARNING] cache_get_row_count - no active cache
+[02:57:42 10/01/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT u.u_id FROM users u INNER JOIN characters c ON u.u_id = c.u_id WHERE c.u_name = 'Aye_Naxui' LIMIT 1")
+[02:57:42 10/01/20] [WARNING] cache_get_row_count - no active cache
+[02:57:42 10/01/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT c.c_id FROM characters c INNER JOIN users u ON c.u_id = u.u_id WHERE c.u_id = 65535 LIMIT 1")
+[02:57:42 10/01/20] [WARNING] cache_get_row_count - no active cache
+[17:35:02 10/02/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[17:35:02 10/02/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[17:35:04 10/02/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[17:35:04 10/02/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[17:35:04 10/02/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[17:35:04 10/02/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[17:35:04 10/02/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[17:35:04 10/02/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM ownable_cars oc INNER JOIN trailers t ON oc.oc_id = t.t_oc_id LIMIT 2000")
+[17:35:04 10/02/20] [WARNING] cache_get_row_count - no active cache
+[17:35:04 10/02/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[17:35:04 10/02/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM trailers t INNER JOIN ownable_cars oc ON t.t_oc_id = oc.oc_id LIMIT 2000")
+[17:35:04 10/02/20] [WARNING] cache_get_row_count - no active cache
+[17:35:04 10/02/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[17:35:52 10/02/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT c.id FROM characters c INNER JOIN users u ON c.u_id = u.u_id WHERE c.u_name = 'Aye_Naxui' LIMIT 1")
+[17:35:52 10/02/20] [WARNING] cache_get_row_count - no active cache
+[17:35:52 10/02/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT u.u_id FROM users u INNER JOIN characters c ON u.u_id = c.u_id WHERE c.u_name = 'Aye_Naxui' LIMIT 1")
+[17:35:52 10/02/20] [WARNING] cache_get_row_count - no active cache
+[17:35:52 10/02/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT c.c_id FROM characters c INNER JOIN users u ON c.u_id = u.u_id WHERE c.u_id = 65535 LIMIT 1")
+[17:35:52 10/02/20] [WARNING] cache_get_row_count - no active cache
+[17:35:52 10/02/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT d.id FROM diaries d INNER JOIN diaries_records dr ON d.d_id = dr.d_id WHERE d.c_id = 65535 LIMIT 1")
+[17:35:52 10/02/20] [WARNING] cache_get_row_count - no active cache
+[17:36:07 10/02/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT u.u_id FROM users u INNER JOIN characters c ON u.u_id = c.u_id WHERE c.u_name = 'Aye_Naxui' LIMIT 1")
+[17:36:07 10/02/20] [WARNING] cache_get_row_count - no active cache
+[17:36:07 10/02/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT c.c_id FROM characters c INNER JOIN users u ON c.u_id = u.u_id WHERE c.u_id = 65535 LIMIT 1")
+[17:36:07 10/02/20] [WARNING] cache_get_row_count - no active cache
+[17:36:07 10/02/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "INSERT INTO ownable_cars (id, oc_id, oc_owner_id, oc_model_id, oc_pos_x, oc_pos_y, oc_pos_z, oc_colors) VALUES (LAST_INSERT_ID(), 0, 65535, 511, 132.0, -67.283, 1.578, '53, 0') ON DUPLICATE KEY UPDATE id = id + 1")
+[20:23:46 10/05/20] [ERROR] CMySQLQuery::Execute - (error #1062) Duplicate entry '17' for key 'PRIMARY' (Query: "INSERT INTO ownable_cars (id, oc_id, oc_owner_id, oc_model_id, oc_pos_x, oc_pos_y, oc_pos_z, oc_colors) VALUES (LAST_INSERT_ID(), 0, 2, 0, 191.038, -72.526, 1.43, '0, 0') ON DUPLICATE KEY UPDATE id = id + 1")
+[20:23:54 10/05/20] [ERROR] CMySQLQuery::Execute - (error #1062) Duplicate entry '17' for key 'PRIMARY' (Query: "INSERT INTO ownable_cars (id, oc_id, oc_owner_id, oc_model_id, oc_pos_x, oc_pos_y, oc_pos_z, oc_colors) VALUES (LAST_INSERT_ID(), 0, 2, 9, 191.038, -72.526, 1.43, '-1, 0') ON DUPLICATE KEY UPDATE id = id + 1")
+[20:24:05 10/05/20] [ERROR] CMySQLQuery::Execute - (error #1062) Duplicate entry '17' for key 'PRIMARY' (Query: "INSERT INTO ownable_cars (id, oc_id, oc_owner_id, oc_model_id, oc_pos_x, oc_pos_y, oc_pos_z, oc_colors) VALUES (LAST_INSERT_ID(), 0, 2, -1, 191.038, -72.526, 1.43, '0, 0') ON DUPLICATE KEY UPDATE id = id + 1")
+[20:24:08 10/05/20] [ERROR] CMySQLQuery::Execute - (error #1062) Duplicate entry '17' for key 'PRIMARY' (Query: "INSERT INTO ownable_cars (id, oc_id, oc_owner_id, oc_model_id, oc_pos_x, oc_pos_y, oc_pos_z, oc_colors) VALUES (LAST_INSERT_ID(), 0, 2, -1, 184.451, -69.617, 1.43, '0, 0') ON DUPLICATE KEY UPDATE id = id + 1")
+[20:24:13 10/05/20] [ERROR] CMySQLQuery::Execute - (error #1062) Duplicate entry '17' for key 'PRIMARY' (Query: "INSERT INTO ownable_cars (id, oc_id, oc_owner_id, oc_model_id, oc_pos_x, oc_pos_y, oc_pos_z, oc_colors) VALUES (LAST_INSERT_ID(), 0, 2, 0, 184.451, -69.617, 1.43, '0, 0') ON DUPLICATE KEY UPDATE id = id + 1")
+[20:24:18 10/05/20] [ERROR] CMySQLQuery::Execute - (error #1062) Duplicate entry '17' for key 'PRIMARY' (Query: "INSERT INTO ownable_cars (id, oc_id, oc_owner_id, oc_model_id, oc_pos_x, oc_pos_y, oc_pos_z, oc_colors) VALUES (LAST_INSERT_ID(), 0, 2, -1, 184.451, -69.617, 1.43, '-1, 0') ON DUPLICATE KEY UPDATE id = id + 1")
+[20:24:23 10/05/20] [ERROR] CMySQLQuery::Execute - (error #1062) Duplicate entry '17' for key 'PRIMARY' (Query: "INSERT INTO ownable_cars (id, oc_id, oc_owner_id, oc_model_id, oc_pos_x, oc_pos_y, oc_pos_z, oc_colors) VALUES (LAST_INSERT_ID(), 0, 2, -1, 184.451, -69.617, 1.43, '0, 0') ON DUPLICATE KEY UPDATE id = id + 1")
+[20:24:26 10/05/20] [ERROR] CMySQLQuery::Execute - (error #1062) Duplicate entry '17' for key 'PRIMARY' (Query: "INSERT INTO ownable_cars (id, oc_id, oc_owner_id, oc_model_id, oc_pos_x, oc_pos_y, oc_pos_z, oc_colors) VALUES (LAST_INSERT_ID(), 0, 2, -1, 184.451, -69.617, 1.43, '0, 0') ON DUPLICATE KEY UPDATE id = id + 1")
+[20:24:28 10/05/20] [ERROR] CMySQLQuery::Execute - (error #1062) Duplicate entry '17' for key 'PRIMARY' (Query: "INSERT INTO ownable_cars (id, oc_id, oc_owner_id, oc_model_id, oc_pos_x, oc_pos_y, oc_pos_z, oc_colors) VALUES (LAST_INSERT_ID(), 0, 2, -1, 184.451, -69.617, 1.43, '-1, 0') ON DUPLICATE KEY UPDATE id = id + 1")
+[20:24:32 10/05/20] [ERROR] CMySQLQuery::Execute - (error #1062) Duplicate entry '17' for key 'PRIMARY' (Query: "INSERT INTO ownable_cars (id, oc_id, oc_owner_id, oc_model_id, oc_pos_x, oc_pos_y, oc_pos_z, oc_colors) VALUES (LAST_INSERT_ID(), 0, 2, 0, 184.451, -69.617, 1.43, '-1, 0') ON DUPLICATE KEY UPDATE id = id + 1")
+[20:24:36 10/05/20] [ERROR] CMySQLQuery::Execute - (error #1062) Duplicate entry '17' for key 'PRIMARY' (Query: "INSERT INTO ownable_cars (id, oc_id, oc_owner_id, oc_model_id, oc_pos_x, oc_pos_y, oc_pos_z, oc_colors) VALUES (LAST_INSERT_ID(), 0, 2, -1, 184.451, -69.617, 1.43, '0, 0') ON DUPLICATE KEY UPDATE id = id + 1")
+[20:25:54 10/05/20] [ERROR] CMySQLQuery::Execute - (error #1062) Duplicate entry '17' for key 'PRIMARY' (Query: "INSERT INTO ownable_cars (id, oc_id, oc_owner_id, oc_model_id, oc_pos_x, oc_pos_y, oc_pos_z, oc_colors) VALUES (LAST_INSERT_ID(), 0, 2, 412, 184.451, -69.617, 1.43, '-1, -1') ON DUPLICATE KEY UPDATE id = id + 1")
+[20:25:58 10/05/20] [ERROR] CMySQLQuery::Execute - (error #1062) Duplicate entry '17' for key 'PRIMARY' (Query: "INSERT INTO ownable_cars (id, oc_id, oc_owner_id, oc_model_id, oc_pos_x, oc_pos_y, oc_pos_z, oc_colors) VALUES (LAST_INSERT_ID(), 0, 2, 412, 184.451, -69.617, 1.43, '-1, 0') ON DUPLICATE KEY UPDATE id = id + 1")
+[20:26:02 10/05/20] [ERROR] CMySQLQuery::Execute - (error #1062) Duplicate entry '17' for key 'PRIMARY' (Query: "INSERT INTO ownable_cars (id, oc_id, oc_owner_id, oc_model_id, oc_pos_x, oc_pos_y, oc_pos_z, oc_colors) VALUES (LAST_INSERT_ID(), 0, 2, 412, 184.451, -69.617, 1.43, '0, -1') ON DUPLICATE KEY UPDATE id = id + 1")
+[18:18:41 10/18/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:18:41 10/18/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[18:18:43 10/18/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:18:43 10/18/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:18:43 10/18/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[18:18:43 10/18/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:18:43 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM ownable_cars oc INNER JOIN trailers t ON oc.oc_id = t.t_oc_id LIMIT 500")
+[18:18:43 10/18/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[18:18:43 10/18/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[18:18:43 10/18/20] [WARNING] cache_get_row_count - no active cache
+[18:18:43 10/18/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[18:18:43 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM trailers t INNER JOIN ownable_cars oc ON t.t_oc_id = oc.oc_id LIMIT 500")
+[18:18:44 10/18/20] [WARNING] cache_get_row_count - no active cache
+[18:18:44 10/18/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[18:20:07 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT c.id FROM characters c INNER JOIN users u ON c.u_id = u.u_id WHERE c.u_name = 'Aye_Naxui' LIMIT 1")
+[18:20:08 10/18/20] [WARNING] cache_get_row_count - no active cache
+[18:20:08 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT u.u_id FROM users u INNER JOIN characters c ON u.u_id = c.u_id WHERE c.u_name = 'Aye_Naxui' LIMIT 1")
+[18:20:08 10/18/20] [WARNING] cache_get_row_count - no active cache
+[18:20:08 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT c.c_id FROM characters c INNER JOIN users u ON c.u_id = u.u_id WHERE c.u_id = 65535 LIMIT 1")
+[18:20:08 10/18/20] [WARNING] cache_get_row_count - no active cache
+[18:20:08 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT d.id FROM diaries d INNER JOIN diaries_records dr ON d.d_id = dr.d_id WHERE d.c_id = 65535 LIMIT 1")
+[18:20:08 10/18/20] [WARNING] cache_get_row_count - no active cache
+[18:22:19 10/18/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:22:19 10/18/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[18:22:21 10/18/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:22:21 10/18/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:22:21 10/18/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[18:22:21 10/18/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:22:21 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM ownable_cars oc INNER JOIN trailers t ON oc.oc_id = t.t_oc_id LIMIT 500")
+[18:22:21 10/18/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[18:22:21 10/18/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[18:22:21 10/18/20] [WARNING] cache_get_row_count - no active cache
+[18:22:21 10/18/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[18:22:21 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM trailers t INNER JOIN ownable_cars oc ON t.t_oc_id = oc.oc_id LIMIT 500")
+[18:22:21 10/18/20] [WARNING] cache_get_row_count - no active cache
+[18:22:21 10/18/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[18:22:21 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT c.id FROM characters c INNER JOIN users u ON c.u_id = u.u_id WHERE c.u_name = 'Aye_Naxui' LIMIT 1")
+[18:22:21 10/18/20] [WARNING] cache_get_row_count - no active cache
+[18:22:21 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT u.u_id FROM users u INNER JOIN characters c ON u.u_id = c.u_id WHERE c.u_name = 'Aye_Naxui' LIMIT 1")
+[18:22:21 10/18/20] [WARNING] cache_get_row_count - no active cache
+[18:22:21 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT c.c_id FROM characters c INNER JOIN users u ON c.u_id = u.u_id WHERE c.u_id = 65535 LIMIT 1")
+[18:22:21 10/18/20] [WARNING] cache_get_row_count - no active cache
+[18:22:21 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT d.id FROM diaries d INNER JOIN diaries_records dr ON d.d_id = dr.d_id WHERE d.c_id = 65535 LIMIT 1")
+[18:22:21 10/18/20] [WARNING] cache_get_row_count - no active cache
+[18:23:46 10/18/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:23:46 10/18/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[18:23:48 10/18/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:23:48 10/18/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[18:23:48 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM ownable_cars oc INNER JOIN trailers t ON oc.oc_id = t.t_oc_id LIMIT 500")
+[18:23:48 10/18/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[18:23:48 10/18/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[18:23:48 10/18/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[18:23:48 10/18/20] [WARNING] cache_get_row_count - no active cache
+[18:23:48 10/18/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[18:23:48 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM trailers t INNER JOIN ownable_cars oc ON t.t_oc_id = oc.oc_id LIMIT 500")
+[18:23:48 10/18/20] [WARNING] cache_get_row_count - no active cache
+[18:23:48 10/18/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[18:23:48 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT c.id FROM characters c INNER JOIN users u ON c.u_id = u.u_id WHERE c.u_name = 'Aye_Naxui' LIMIT 1")
+[18:23:48 10/18/20] [WARNING] cache_get_row_count - no active cache
+[18:23:48 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT u.u_id FROM users u INNER JOIN characters c ON u.u_id = c.u_id WHERE c.u_name = 'Aye_Naxui' LIMIT 1")
+[18:23:48 10/18/20] [WARNING] cache_get_row_count - no active cache
+[18:23:48 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT c.c_id FROM characters c INNER JOIN users u ON c.u_id = u.u_id WHERE c.u_id = 65535 LIMIT 1")
+[18:23:48 10/18/20] [WARNING] cache_get_row_count - no active cache
+[18:23:48 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT d.id FROM diaries d INNER JOIN diaries_records dr ON d.d_id = dr.d_id WHERE d.c_id = 65535 LIMIT 1")
+[18:23:48 10/18/20] [WARNING] cache_get_row_count - no active cache
+[20:32:54 10/18/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[20:32:54 10/18/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[20:32:56 10/18/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[20:32:56 10/18/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[20:32:57 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM ownable_cars oc INNER JOIN trailers t ON oc.oc_id = t.t_oc_id LIMIT 500")
+[20:32:57 10/18/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[20:32:57 10/18/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[20:32:57 10/18/20] [WARNING] cache_get_row_count - no active cache
+[20:32:57 10/18/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[20:32:57 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM trailers t INNER JOIN ownable_cars oc ON t.t_oc_id = oc.oc_id LIMIT 500")
+[20:32:57 10/18/20] [WARNING] cache_get_row_count - no active cache
+[20:32:57 10/18/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[20:32:57 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT c.id FROM characters c INNER JOIN users u ON c.u_id = u.u_id WHERE c.u_name = 'Aye_Naxui' LIMIT 1")
+[20:32:57 10/18/20] [WARNING] cache_get_row_count - no active cache
+[20:32:57 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT u.u_id FROM users u INNER JOIN characters c ON u.u_id = c.u_id WHERE c.u_name = 'Aye_Naxui' LIMIT 1")
+[20:32:57 10/18/20] [WARNING] cache_get_row_count - no active cache
+[20:32:57 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT c.c_id FROM characters c INNER JOIN users u ON c.u_id = u.u_id WHERE c.u_id = 65535 LIMIT 1")
+[20:32:57 10/18/20] [WARNING] cache_get_row_count - no active cache
+[20:32:57 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT d.id FROM diaries d INNER JOIN diaries_records dr ON d.d_id = dr.d_id WHERE d.c_id = 65535 LIMIT 1")
+[20:32:57 10/18/20] [WARNING] cache_get_row_count - no active cache
+[20:41:57 10/18/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[20:41:58 10/18/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[20:42:00 10/18/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[20:42:00 10/18/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[20:42:00 10/18/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[20:42:00 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM ownable_cars oc INNER JOIN trailers t ON oc.oc_id = t.t_oc_id LIMIT 500")
+[20:42:00 10/18/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[20:42:00 10/18/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[20:42:00 10/18/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[20:42:00 10/18/20] [WARNING] cache_get_row_count - no active cache
+[20:42:00 10/18/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[20:42:00 10/18/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM trailers t INNER JOIN ownable_cars oc ON t.t_oc_id = oc.oc_id LIMIT 500")
+[20:42:00 10/18/20] [WARNING] cache_get_row_count - no active cache
+[20:42:01 10/18/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[17:58:24 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.c_id' in 'on clause' (Query: "SELECT * FROM graffiti g LEFT JOIN characters c ON g.last_author_id = c.c_id LIMIT 3")
+[17:58:24 10/26/20] [WARNING] cache_get_row_count - no active cache
+[17:58:24 10/26/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[17:58:25 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[17:58:25 10/26/20] [WARNING] cache_get_row_count - no active cache
+[17:58:25 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[17:58:25 10/26/20] [WARNING] cache_get_row_count - no active cache
+[17:59:22 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[17:59:23 10/26/20] [WARNING] cache_get_row_count - no active cache
+[18:00:47 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[18:00:47 10/26/20] [WARNING] cache_get_row_count - no active cache
+[18:00:48 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[18:00:48 10/26/20] [WARNING] cache_get_row_count - no active cache
+[19:14:39 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[19:14:40 10/26/20] [WARNING] cache_get_row_count - no active cache
+[19:14:40 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[19:14:40 10/26/20] [WARNING] cache_get_row_count - no active cache
+[19:20:55 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[19:20:55 10/26/20] [WARNING] cache_get_row_count - no active cache
+[19:20:55 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[19:20:55 10/26/20] [WARNING] cache_get_row_count - no active cache
+[19:22:17 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[19:22:17 10/26/20] [WARNING] cache_get_row_count - no active cache
+[19:22:17 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[19:22:17 10/26/20] [WARNING] cache_get_row_count - no active cache
+[19:48:05 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[19:48:05 10/26/20] [WARNING] cache_get_row_count - no active cache
+[19:48:05 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[19:48:05 10/26/20] [WARNING] cache_get_row_count - no active cache
+[19:48:56 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[19:48:57 10/26/20] [WARNING] cache_get_row_count - no active cache
+[19:48:57 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[19:48:57 10/26/20] [WARNING] cache_get_row_count - no active cache
+[19:49:58 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[19:49:58 10/26/20] [WARNING] cache_get_row_count - no active cache
+[19:49:58 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[19:49:58 10/26/20] [WARNING] cache_get_row_count - no active cache
+[19:53:08 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[19:53:08 10/26/20] [WARNING] cache_get_row_count - no active cache
+[19:53:08 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[19:53:08 10/26/20] [WARNING] cache_get_row_count - no active cache
+[19:55:44 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[19:55:44 10/26/20] [WARNING] cache_get_row_count - no active cache
+[19:55:44 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[19:55:45 10/26/20] [WARNING] cache_get_row_count - no active cache
+[20:03:51 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:03:51 10/26/20] [WARNING] cache_get_row_count - no active cache
+[20:03:51 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:03:51 10/26/20] [WARNING] cache_get_row_count - no active cache
+[20:08:14 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:08:14 10/26/20] [WARNING] cache_get_row_count - no active cache
+[20:08:14 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:08:15 10/26/20] [WARNING] cache_get_row_count - no active cache
+[20:12:29 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:12:29 10/26/20] [WARNING] cache_get_row_count - no active cache
+[20:12:29 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:12:29 10/26/20] [WARNING] cache_get_row_count - no active cache
+[20:21:14 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:21:14 10/26/20] [WARNING] cache_get_row_count - no active cache
+[20:21:14 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:21:14 10/26/20] [WARNING] cache_get_row_count - no active cache
+[20:27:27 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:27:27 10/26/20] [WARNING] cache_get_row_count - no active cache
+[20:27:27 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:27:27 10/26/20] [WARNING] cache_get_row_count - no active cache
+[20:28:39 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:28:39 10/26/20] [WARNING] cache_get_row_count - no active cache
+[20:28:39 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:28:39 10/26/20] [WARNING] cache_get_row_count - no active cache
+[20:30:41 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:30:41 10/26/20] [WARNING] cache_get_row_count - no active cache
+[20:30:41 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:30:41 10/26/20] [WARNING] cache_get_row_count - no active cache
+[20:47:33 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:47:33 10/26/20] [WARNING] cache_get_row_count - no active cache
+[20:47:34 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:47:34 10/26/20] [WARNING] cache_get_row_count - no active cache
+[21:32:26 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[21:32:26 10/26/20] [WARNING] cache_get_row_count - no active cache
+[21:32:26 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[21:32:26 10/26/20] [WARNING] cache_get_row_count - no active cache
+[21:36:12 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[21:36:12 10/26/20] [WARNING] cache_get_row_count - no active cache
+[21:36:12 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[21:36:12 10/26/20] [WARNING] cache_get_row_count - no active cache
+[21:38:54 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[21:38:55 10/26/20] [WARNING] cache_get_row_count - no active cache
+[21:38:55 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[21:38:55 10/26/20] [WARNING] cache_get_row_count - no active cache
+[21:43:17 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[21:43:17 10/26/20] [WARNING] cache_get_row_count - no active cache
+[21:43:17 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[21:43:17 10/26/20] [WARNING] cache_get_row_count - no active cache
+[22:10:00 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[22:10:00 10/26/20] [WARNING] cache_get_row_count - no active cache
+[22:10:00 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[22:10:00 10/26/20] [WARNING] cache_get_row_count - no active cache
+[22:10:16 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[22:10:16 10/26/20] [WARNING] cache_get_row_count - no active cache
+[22:10:16 10/26/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[22:10:16 10/26/20] [WARNING] cache_get_row_count - no active cache
+[18:26:11 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[18:26:11 10/27/20] [WARNING] cache_get_row_count - no active cache
+[18:26:11 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[18:26:11 10/27/20] [WARNING] cache_get_row_count - no active cache
+[18:30:18 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[18:30:18 10/27/20] [WARNING] cache_get_row_count - no active cache
+[18:30:18 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[18:30:18 10/27/20] [WARNING] cache_get_row_count - no active cache
+[18:37:51 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[18:37:51 10/27/20] [WARNING] cache_get_row_count - no active cache
+[18:37:51 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[18:37:51 10/27/20] [WARNING] cache_get_row_count - no active cache
+[18:41:19 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[18:41:19 10/27/20] [WARNING] cache_get_row_count - no active cache
+[18:41:19 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[18:41:19 10/27/20] [WARNING] cache_get_row_count - no active cache
+[18:48:06 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[18:48:06 10/27/20] [WARNING] cache_get_row_count - no active cache
+[18:48:06 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[18:48:06 10/27/20] [WARNING] cache_get_row_count - no active cache
+[19:57:13 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[19:57:14 10/27/20] [WARNING] cache_get_row_count - no active cache
+[19:57:14 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[19:57:14 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:00:10 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:00:10 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:00:10 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:00:10 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:02:36 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:02:36 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:02:36 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:02:36 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:09:57 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:09:57 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:09:57 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:09:57 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:10:46 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:10:47 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:10:47 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:10:47 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:12:29 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:12:29 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:12:29 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:12:29 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:16:44 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:16:44 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:16:44 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:16:44 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:27:55 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:27:55 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:27:55 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:27:56 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:29:48 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:29:48 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:29:48 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:29:48 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:31:53 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:31:53 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:31:53 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:31:53 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:34:44 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:34:44 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:34:44 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:34:44 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:37:12 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:37:12 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:37:12 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:37:12 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:38:52 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:38:52 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:38:52 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:38:52 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:39:24 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:39:24 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:39:24 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:39:24 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:42:33 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:42:33 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:42:33 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:42:33 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:44:58 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:44:58 10/27/20] [WARNING] cache_get_row_count - no active cache
+[20:44:58 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[20:44:58 10/27/20] [WARNING] cache_get_row_count - no active cache
+[22:01:24 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[22:01:24 10/27/20] [WARNING] cache_get_row_count - no active cache
+[22:01:24 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[22:01:25 10/27/20] [WARNING] cache_get_row_count - no active cache
+[22:10:38 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[22:10:38 10/27/20] [WARNING] cache_get_row_count - no active cache
+[22:10:38 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[22:10:38 10/27/20] [WARNING] cache_get_row_count - no active cache
+[22:12:11 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[22:12:11 10/27/20] [WARNING] cache_get_row_count - no active cache
+[22:12:11 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[22:12:11 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:03:48 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[23:03:48 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:03:48 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[23:03:48 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:06:01 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[23:06:01 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:06:02 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[23:06:02 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:06:26 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayf_Naxui' LIMIT 1")
+[23:06:26 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:06:27 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayg_Naxui' LIMIT 1")
+[23:06:27 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:06:29 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayh_Naxui' LIMIT 1")
+[23:06:29 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:06:30 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayi_Naxui' LIMIT 1")
+[23:06:30 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:06:31 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayj_Naxui' LIMIT 1")
+[23:06:31 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:06:32 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayk_Naxui' LIMIT 1")
+[23:06:32 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:06:33 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayl_Naxui' LIMIT 1")
+[23:06:33 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:06:34 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aym_Naxui' LIMIT 1")
+[23:06:34 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:06:35 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayn_Naxui' LIMIT 1")
+[23:06:35 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:06:45 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayo_Naxui' LIMIT 1")
+[23:06:45 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:06:46 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayp_Naxui' LIMIT 1")
+[23:06:46 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:06:47 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayq_Naxui' LIMIT 1")
+[23:06:47 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:06:48 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayr_Naxui' LIMIT 1")
+[23:06:48 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:06:49 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ays_Naxui' LIMIT 1")
+[23:06:49 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:06:50 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayt_Naxui' LIMIT 1")
+[23:06:50 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:15:26 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[23:15:26 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:15:26 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[23:15:27 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:16:34 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[23:16:34 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:16:34 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[23:16:34 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:16:59 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayf_Naxui' LIMIT 1")
+[23:16:59 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:17:00 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayg_Naxui' LIMIT 1")
+[23:17:00 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:17:01 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayh_Naxui' LIMIT 1")
+[23:17:01 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:17:02 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayi_Naxui' LIMIT 1")
+[23:17:02 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:17:03 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayj_Naxui' LIMIT 1")
+[23:17:03 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:17:04 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayk_Naxui' LIMIT 1")
+[23:17:04 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:17:05 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayl_Naxui' LIMIT 1")
+[23:17:05 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:17:06 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aym_Naxui' LIMIT 1")
+[23:17:07 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:17:08 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayn_Naxui' LIMIT 1")
+[23:17:08 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:20:05 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[23:20:05 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:20:05 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[23:20:06 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:20:42 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayf_Naxui' LIMIT 1")
+[23:20:42 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:20:43 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayg_Naxui' LIMIT 1")
+[23:20:43 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:20:44 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayh_Naxui' LIMIT 1")
+[23:20:44 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:20:45 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayi_Naxui' LIMIT 1")
+[23:20:45 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:20:47 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayj_Naxui' LIMIT 1")
+[23:20:47 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:20:48 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayk_Naxui' LIMIT 1")
+[23:20:48 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:20:49 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayl_Naxui' LIMIT 1")
+[23:20:49 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:20:50 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aym_Naxui' LIMIT 1")
+[23:20:50 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:20:53 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayn_Naxui' LIMIT 1")
+[23:20:53 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:22:30 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[23:22:30 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:22:30 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[23:22:30 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:23:03 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayf_Naxui' LIMIT 1")
+[23:23:03 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:23:04 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayg_Naxui' LIMIT 1")
+[23:23:04 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:23:05 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayh_Naxui' LIMIT 1")
+[23:23:05 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:23:14 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayi_Naxui' LIMIT 1")
+[23:23:14 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:23:15 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayj_Naxui' LIMIT 1")
+[23:23:15 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:23:16 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayk_Naxui' LIMIT 1")
+[23:23:16 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:23:17 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayl_Naxui' LIMIT 1")
+[23:23:17 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:23:21 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Aym_Naxui' LIMIT 1")
+[23:23:21 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:23:22 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayn_Naxui' LIMIT 1")
+[23:23:22 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:23:23 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayo_Naxui' LIMIT 1")
+[23:23:23 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:23:25 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayp_Naxui' LIMIT 1")
+[23:23:25 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:23:33 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.user_name = 'Ayq_Naxui' LIMIT 1")
+[23:23:33 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:28:12 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[23:28:12 10/27/20] [WARNING] cache_get_row_count - no active cache
+[23:32:02 10/27/20] [ERROR] CMySQLQuery::Execute - (error #1054) Unknown column 'c.user_name' in 'where clause' (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_name = 'Aye_Naxui' LIMIT 1")
+[23:32:02 10/27/20] [WARNING] cache_get_row_count - no active cache
+[11:14:11 11/04/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[11:14:12 11/04/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[11:14:14 11/04/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[11:14:14 11/04/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[11:14:14 11/04/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[11:14:14 11/04/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[11:14:14 11/04/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM ownable_cars oc INNER JOIN trailers t ON oc.oc_id = t.t_oc_id LIMIT 500")
+[11:14:14 11/04/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[11:14:14 11/04/20] [WARNING] cache_get_row_count - no active cache
+[11:14:14 11/04/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[11:14:14 11/04/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM trailers t INNER JOIN ownable_cars oc ON t.t_oc_id = oc.oc_id LIMIT 500")
+[11:14:14 11/04/20] [WARNING] cache_get_row_count - no active cache
+[11:14:14 11/04/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[11:14:14 11/04/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM graffiti g LEFT JOIN characters c ON g.last_author_id = c.character_id LIMIT 3")
+[11:14:14 11/04/20] [WARNING] cache_get_row_count - no active cache
+[11:14:14 11/04/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[11:15:14 11/04/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT c.id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.character_name = 'Aye_Naxui' LIMIT 1")
+[11:15:14 11/04/20] [WARNING] cache_get_row_count - no active cache
+[11:15:14 11/04/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[11:15:14 11/04/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT u.user_id FROM users u LEFT JOIN characters c ON u.user_id = c.user_id WHERE c.character_name = 'Aye_Naxui' LIMIT 1")
+[11:15:14 11/04/20] [WARNING] cache_get_row_count - no active cache
+[11:15:14 11/04/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[11:15:14 11/04/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT c.character_id FROM characters c LEFT JOIN users u ON c.user_id = u.user_id WHERE c.user_id = 65535 LIMIT 1")
+[11:15:14 11/04/20] [WARNING] cache_get_row_count - no active cache
+[11:15:14 11/04/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[11:15:14 11/04/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT d.id FROM diaries d INNER JOIN diaries_records dr ON d.d_id = dr.d_id WHERE d.c_id = 65535 LIMIT 1")
+[11:15:14 11/04/20] [WARNING] cache_get_row_count - no active cache
+[19:03:24 11/05/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[19:03:24 11/05/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[19:03:26 11/05/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[19:03:26 11/05/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[19:03:26 11/05/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[19:03:26 11/05/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM ownable_cars oc INNER JOIN trailers t ON oc.oc_id = t.t_oc_id LIMIT 500")
+[19:03:26 11/05/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[19:03:27 11/05/20] [WARNING] cache_get_row_count - no active cache
+[19:03:27 11/05/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[19:03:27 11/05/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM trailers t INNER JOIN ownable_cars oc ON t.t_oc_id = oc.oc_id LIMIT 500")
+[19:03:27 11/05/20] [WARNING] cache_get_row_count - no active cache
+[19:03:27 11/05/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[19:03:27 11/05/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM graffiti g LEFT JOIN characters c ON g.last_author_id = c.character_id LIMIT 3")
+[19:03:27 11/05/20] [WARNING] cache_get_row_count - no active cache
+[19:03:27 11/05/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[19:05:04 11/05/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[19:05:04 11/05/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[19:05:06 11/05/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[19:05:06 11/05/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[19:05:06 11/05/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[19:05:06 11/05/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM ownable_cars oc INNER JOIN trailers t ON oc.oc_id = t.t_oc_id LIMIT 500")
+[19:05:06 11/05/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[19:05:06 11/05/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[19:05:06 11/05/20] [WARNING] cache_get_row_count - no active cache
+[19:05:06 11/05/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[19:05:06 11/05/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM trailers t INNER JOIN ownable_cars oc ON t.t_oc_id = oc.oc_id LIMIT 500")
+[19:05:06 11/05/20] [WARNING] cache_get_row_count - no active cache
+[19:05:06 11/05/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[19:05:06 11/05/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM graffiti g LEFT JOIN characters c ON g.last_author_id = c.character_id LIMIT 3")
+[19:05:06 11/05/20] [WARNING] cache_get_row_count - no active cache
+[19:05:06 11/05/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[19:05:40 11/05/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[19:05:40 11/05/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[19:05:42 11/05/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[19:05:42 11/05/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[19:05:42 11/05/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[19:05:42 11/05/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[19:05:42 11/05/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[19:05:42 11/05/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM ownable_cars oc INNER JOIN trailers t ON oc.oc_id = t.t_oc_id LIMIT 500")
+[19:05:42 11/05/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[19:05:42 11/05/20] [WARNING] cache_get_row_count - no active cache
+[19:05:42 11/05/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[19:05:42 11/05/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM trailers t INNER JOIN ownable_cars oc ON t.t_oc_id = oc.oc_id LIMIT 500")
+[19:05:42 11/05/20] [WARNING] cache_get_row_count - no active cache
+[19:05:42 11/05/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[19:05:42 11/05/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM graffiti g LEFT JOIN characters c ON g.last_author_id = c.character_id LIMIT 3")
+[19:05:43 11/05/20] [WARNING] cache_get_row_count - no active cache
+[19:05:43 11/05/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[19:06:39 11/05/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[19:06:39 11/05/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[19:06:41 11/05/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[19:06:41 11/05/20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[19:06:41 11/05/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[19:06:41 11/05/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM ownable_cars oc INNER JOIN trailers t ON oc.oc_id = t.t_oc_id LIMIT 500")
+[19:06:41 11/05/20] [ERROR] CMySQLConnection::SetCharset - invalid charset ("cp1251") or not connected
+[19:06:41 11/05/20] [WARNING] cache_get_row_count - no active cache
+[19:06:41 11/05/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[19:06:41 11/05/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM trailers t INNER JOIN ownable_cars oc ON t.t_oc_id = oc.oc_id LIMIT 500")
+[19:06:41 11/05/20] [WARNING] cache_get_row_count - no active cache
+[19:06:41 11/05/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')
+[19:06:41 11/05/20] [ERROR] CMySQLQuery::Execute - (error #2006) MySQL server has gone away (Query: "SELECT * FROM graffiti g LEFT JOIN characters c ON g.last_author_id = c.character_id LIMIT 3")
+[19:06:41 11/05/20] [WARNING] cache_get_row_count - no active cache
+[19:06:41 11/05/20] [WARNING] CMySQLHandle::DeleteSavedResult - invalid result id ('0')

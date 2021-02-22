@@ -1,0 +1,1 @@
+new Iterator: OwnableCars<MAX_VEHICLES>;

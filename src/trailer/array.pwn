@@ -1,0 +1,1 @@
+new g_trailer[MAX_TRAILERS][E_TRAILER_STRUCT];

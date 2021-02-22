@@ -1,0 +1,3 @@
+#define MAX_TIMERS (1)
+
+#define INVALID_TIMER_ID (INVALID_PLAYER_ID)
